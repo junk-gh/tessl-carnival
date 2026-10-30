@@ -275,3 +275,5 @@ use, including Claude Code, Cursor and Codex.
 
 MIT, so you can fork the carnival, change it and take it home. See
 [`LICENSE`](LICENSE).
+
+Maintained by junk-gh.
